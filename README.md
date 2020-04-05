@@ -1,2 +1,3 @@
 # drumKit
-JavaScript training in DOM manupilation &amp; callbacks
+
+My JavaScript training in DOM manipulation & callbacks
